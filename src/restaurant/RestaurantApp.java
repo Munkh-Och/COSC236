@@ -7,7 +7,7 @@ public class RestaurantApp {
         
         // Creating menu items
         MenuItem pizza = new MenuItem("Pizza", 9.99);
-        MenuItem burger = new MenuItem("Burger", 6.49);
+        MenuItem burger = new MenuItem("Burger", 6.49);  // Jayce Witter
         MenuItem soda = new MenuItem("Soda", 2.99);
         
         // Customer adds items to their order
