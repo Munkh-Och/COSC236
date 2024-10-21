@@ -6,7 +6,7 @@ public class MenuItem {
 
     public MenuItem(String name, double price) {
         this.name = name;
-        this.priceInDollars = price;
+        this.priceInDollars = price; // 	Nichita Usatenco
     }
 
     public String getName() {
